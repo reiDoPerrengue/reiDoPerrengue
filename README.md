@@ -1,5 +1,5 @@
 # 💫 About Me:
-alert(‘Hello, World!’)<br><br>I’m Pedro, I Love and hate JavaScript.<br><br>Graduating in Computer Science.
+window.alert(‘Hello, World!’)<br><br>I’m Pedro, I Love and hate JavaScript.<br><br>Graduating in Computer Science.
 
 
 ## 🌐 Socials:
